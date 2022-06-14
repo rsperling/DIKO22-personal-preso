@@ -1,24 +1,29 @@
 ---
 marp: true
-paginate: true
-footer: Computacenter 2022
+theme: default
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
 ---
 
-# Personal Presentation
-Randi Sperling
+# About Me
 
-**Digital Innovation Kickoff Meeting**
+![bg left 70%](Randi_headshot.jpg)
+
+Randi Sperling
+Digital Innovation Kickoff Meeting
 Virgin Hotel Las Vegas, Nevada
 June 20, 2022 - June 23, 2022
 
 ---
 
-# What Would You Say You Do Here?
-- 
+# What Drives You
+<!-- footer: Computacenter 2022 -->
+<!-- paginate: true -->
+![bg left 70%](.jpg)
 
 ---
 
-# Service Delivery Management
+### Service Delivery Management
+![bg left 90%](office-space-paul-lee-wilson.gif)
 - Communication
 - Reporting
 - Status Tracking
@@ -26,6 +31,10 @@ June 20, 2022 - June 23, 2022
 - Contract Process & Project Profitability
 - Customer Enablement
 - Customer Relationship Management
+
+---
+
+# 
 
 ---
 
