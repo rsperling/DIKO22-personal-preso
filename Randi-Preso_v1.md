@@ -51,14 +51,11 @@ June 20, 2022 - June 23, 2022
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## bullet list
+- bullet one
+- bullet two
+- bullet three
 
 
 ---
@@ -67,14 +64,11 @@ June 20, 2022 - June 23, 2022
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## Bullet list
+- bullet one
+- bullet two
+- bullet three
 
 ---
 
@@ -83,14 +77,16 @@ June 20, 2022 - June 23, 2022
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## Bullet list
+- bullet one
+- bullet two
+- bullet three
+
+![bg left](lily-note.jpg)
+![bg contain](lightning-team-photo.jpg)
+
+
 
 ---
 
