@@ -1,6 +1,10 @@
 ---
 marp: true
 theme: default
+class:
+- lead
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+
 ---
 
 # Personal Presentation
@@ -20,109 +24,92 @@ June 20, 2022 - June 23, 2022
 
 ---
 
-
 <!-- footer: Computacenter 2022 -->
 <!-- paginate: true -->
-![bg](marp-background1.jpg)
 
-# **What Drives Me**
+# **What Drives You and Why?**
+
+
+---
+
+![bg fit](pic-collage1.png)
+
+---
+
+- Relationship Building and Account Ownership
+- Responsiveness
+- Escalation Path
+- Data Analysis
+    -Quarterly Business Reviews (QBR)
+        - Present KPI's to customers
+- Bridge communication between customers, vendors, and engineering team
+<br>
+
+![bg left 95%](office-space-paul-lee-wilson.gif)
 
 
 ---
 
-![bg](pic-collage1.png)
-
----
-
-### Service Delivery Management
-![bg](marp-background1.jpg)
-![bg left 90%](office-space-paul-lee-wilson.gif)
-- Communication
-- Status Tracking
-- Forecasting
-- Contract Process & Project Profitability
-- Customer Enablement
-- Customer Relationship Management
-
----
-
-![bg](marp-background1.jpg)
 # Opportunities and Challenges
 <br>
 <br>
 <br>
 
-## bullet list
+# bullet list
+
 - bullet one
 - bullet two
 - bullet three
 
 
 ---
-![bg](marp-background1.jpg)
 # Professional Accomplishments
-<br>
-<br>
-<br>
 
-## Bullet list
-- bullet one
+
+
+
+- Built a reliable and productive service delivery team
 - bullet two
 - bullet three
 
 ---
-
-![bg](marp-background1.jpg)
 # Personal Investments
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-## Bullet list
-- bullet one
-- bullet two
-- bullet three
-
-![bg left](lily-note.jpg)
-![bg contain](lightning-team-photo.jpg)
-
-
+![bg fit](ted-lasso-quote.jpg)
+![bg fit](pic-collage2.png)
 
 ---
 
-![bg](marp-background1.jpg)
 # Business Value
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+- Service Delivery Management Team
+    - Redistributed SDM workload
+- Helped to analyze our business and apply a standard allocation across all contracts
 
 ---
 
-![bg](marp-background1.jpg)
 # What Went Well Retrospective
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+- Service Delivery Management Team  
+- ERP migration
+- Knowledge transfer and training
+
 
 ---
 
-![bg](marp-background1.jpg)
 # 2022-2023 Planning
 <br>
 <br>
