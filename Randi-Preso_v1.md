@@ -32,16 +32,17 @@ June 20, 2022 - June 23, 2022
 
 ---
 
-![bg fit](pic-collage1.png)
+![bg fit](pic-collage1.1.png)
 
 ---
 
-- Relationship Building and Account Ownership
-- Responsiveness
-- Escalation Path
-- Data Analysis
-    -Quarterly Business Reviews (QBR)
-        - Present KPI's to customers
+- Whatever the business requires...!
+    - Relationship Building and Account Ownership
+    - Responsiveness
+    - Escalation Path
+    - Data Analysis
+        - Quarterly Business Reviews (QBR)
+            - Present KPI's to customers
 - Bridge communication between customers, vendors, and engineering team
 <br>
 
@@ -55,22 +56,19 @@ June 20, 2022 - June 23, 2022
 <br>
 <br>
 
-# bullet list
-
-- bullet one
-- bullet two
-- bullet three
-
+# 
 
 ---
 # Professional Accomplishments
 
+![bg left 100%](summer-pic.jpg)
+![bg left 90%](brooke-pic.jpg)
+![bg left 90%](paige-pic.jpg)
 
+**Built a reliable and productive service delivery team**
 
-
-- Built a reliable and productive service delivery team
-- bullet two
-- bullet three
+_"It's not about the wins or losses; the purpose is to help your players be the best versions of themselves on and off the field. Leadership is about the long-game, not the short-term wins. Invest in unlocking the potential of people, and the results will follow."_ 
+-- Ted Lasso
 
 ---
 # Personal Investments
@@ -86,7 +84,7 @@ June 20, 2022 - June 23, 2022
 <br>
 
 ![bg fit](ted-lasso-quote.jpg)
-![bg fit](pic-collage2.png)
+![bg fit](pic-collage2.1.png)
 
 ---
 
@@ -95,30 +93,32 @@ June 20, 2022 - June 23, 2022
 <br>
 
 - Service Delivery Management Team
-    - Redistributed SDM workload
-- Helped to analyze our business and apply a standard allocation across all contracts
+- Random, yet important knowledge
 
 ---
 
 # What Went Well Retrospective
-<br>
 
-- Service Delivery Management Team  
-- ERP migration
-- Knowledge transfer and training
+### What Went Well
+- Service Delivery Management Team Growth
+
+### What Did Not Go So Well...
+- ERP Migration
+- Scope Creep (specific contracts)
+
+### What Would I Do Differently?
+- Act early and issue change requests before the work occurs
+- Communication
 
 
 ---
 
-# 2022-2023 Planning
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+# Personal/Professional Investments for 2022/2023
+- Pass the torch
+    - Transition Planning
+- Invest more time with finance and understanding our accounting processes
+- PMP (Keeping It)
+- Fractured Elbow? 
+    - No, but partially torn LUCL and UCL
+    - REHAB, REHAB, REHAB
+![bg right fit](randi-sling.jpg)
