@@ -71,6 +71,23 @@ _"It's not about the wins or losses; the purpose is to help your players be the 
 -- Ted Lasso
 
 ---
+
+# Business Value
+
+
+<br>
+
+- Service Delivery Management Team
+- Important "tribal knowledge" 
+- Long-time customer relationships
+- Responsive
+<br>
+<br>
+<br>
+<br>
+
+---
+
 # Personal Investments
 <br>
 <br>
@@ -88,14 +105,6 @@ _"It's not about the wins or losses; the purpose is to help your players be the 
 
 ---
 
-# Business Value
-<br>
-<br>
-
-- Service Delivery Management Team
-- Random, yet important knowledge
-
----
 
 # What Went Well Retrospective
 
@@ -107,8 +116,8 @@ _"It's not about the wins or losses; the purpose is to help your players be the 
 - Scope Creep (specific contracts)
 
 ### What Would I Do Differently?
-- Act early and issue change requests before the work occurs
-- Communication
+- Communicate scope creep
+    - Act early: issue change requests before the work occurs
 
 
 ---
