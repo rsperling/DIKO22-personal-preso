@@ -54,7 +54,6 @@ June 20, 2022 - June 23, 2022
 # Opportunities and Challenges
 - Annual contract renewals
 - Navigating new customer personalities
-# 
 
 ---
 # Professional Accomplishments
