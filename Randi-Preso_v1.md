@@ -52,10 +52,8 @@ June 20, 2022 - June 23, 2022
 ---
 
 # Opportunities and Challenges
-<br>
-<br>
-<br>
-
+- Annual contract renewals
+- Navigating new customer personalities
 # 
 
 ---
